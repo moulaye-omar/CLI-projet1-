@@ -1,7 +1,7 @@
  Exercice 1
 - cd ~
 - mkdir cli_tmp
-- cd cli_tmp
+- cd cli_tmp \n
    touch je_suis_dans_tmp.txt
 - touch in_cli_tmp.txt
    mkdir in_cli_tmp
