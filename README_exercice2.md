@@ -1,4 +1,5 @@
   Exercice 2
+- cd ~
 - mkdir conteneur
 - cd conteneur
   mkdir voitures ustensiles electronique
